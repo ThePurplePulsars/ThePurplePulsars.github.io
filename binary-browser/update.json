@@ -1,0 +1,13 @@
+{
+  "appName": "Binary Browser",
+  "packageName": "com.binary.browser",
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "apkUrl": "https://github.com/ThePurplePulsars/BinaryBrowser/releases/download/v1.0.0/BinaryBrowser.apk",
+  "changelog": [
+    "Initial release",
+    "Fast browsing",
+    "Privacy focused"
+  ],
+  "forceUpdate": false
+}
