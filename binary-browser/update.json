@@ -1,13 +1,8 @@
 {
-  "appName": "Binary Browser",
-  "packageName": "com.binary.browser",
-  "versionCode": 1,
-  "versionName": "1.0.0",
-  "apkUrl": "https://github.com/ThePurplePulsars/BinaryBrowser/releases/download/v1.0.0/BinaryBrowser.apk",
-  "changelog": [
-    "Initial release",
-    "Fast browsing",
-    "Privacy focused"
-  ],
+  "versionCode": 2,
+  "versionName": "1.2.1 Pro",
+  "apkUrl": "https://github.com/ThePurplePulsar/BinaryBrowser/releases/download/v1.2.1/app-release.apk",
+  "changelog": "• New categorization in Settings\n• In-app feedback system\n• Drag and drop Dashboard tiles"
+}
   "forceUpdate": false
 }
