@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.2.1 Pro",
+  "versionCode": 3,
+  "versionName": "1.2.2 Pro",
   "apkUrl": "https://github.com/ThePurplePulsars/BinaryBrowser/releases/download/v1.2.1/Binary.Browser.apk",
-  "changelog": "• New categorization in Settings\n• In-app feedback system\n• Drag and drop Dashboard tiles"
+  "changelog": "• Updated dynamic theme change.\n• Fixed autoplay issues.\n• New Fullscreen experience."
 }
