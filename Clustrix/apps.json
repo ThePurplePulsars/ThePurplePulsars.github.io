@@ -1,0 +1,16 @@
+{
+    "id": "app_id_1",
+    "name": "Binary Browser",
+    "description": "Full description here...",
+    "iconUrl": "https://path-to-logo.png",
+    "downloadUrl": "https://link-to-apk.apk",
+    "version": "1.0.0",
+    "developer": "Dev Name",
+    "fileSize": "20 MB",
+    "updateDate": "2024-01-20",
+  "screenshots": [
+    "https://raw.githubusercontent.com/YourRepo/main/assets/screen1.png",
+    "https://raw.githubusercontent.com/YourRepo/main/assets/screen2.png",
+    "https://raw.githubusercontent.com/YourRepo/main/assets/screen3.png"
+  ],
+}
