@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3 Pro",
-  "apkUrl": "https://github.com/ThePurplePulsars/BinaryBrowser/releases/download/v1.3.0/BinaryBrowser.apk",
-  "changelog": "• Better UI improvements.\n• Fixed bugs.\n• Brand new in-app updater."
+  "versionCode": 5,
+  "versionName": "1.4.0 Pro",
+  "apkUrl": "https://github.com/ThePurplePulsars/BinaryBrowser/releases/download/v1.4.0/BinaryBrowser.apk",
+  "changelog": "• Unlimited Quicklinks for faster access to favorite websites.\n• New Context Menu.\n• Adaptive UI for bigger screens.\n• Few UI bug fixes."
 }
