@@ -4,12 +4,12 @@
     "name": "Binary Browser",
     "packageName": "com.binary.browser",
     "description": "A lightweight yet feature rich browser. A better alternative to Chrome.",
-    "versionCode": 4,
-    "version": "1.3 Pro",
+    "versionCode": 5,
+    "version": "1.4.0 Pro",
     "iconUrl": "https://raw.githubusercontent.com/ThePurplePulsars/BinaryBrowser/main/binary_logo.png",
-    "downloadUrl": "https://raw.githubusercontent.com/ThePurplePulsars/BinaryBrowser/releases/download/v1.3.0/BinaryBrowser.apk",
+    "downloadUrl": "https://raw.githubusercontent.com/ThePurplePulsars/BinaryBrowser/releases/download/v1.4.0/BinaryBrowser.apk",
     "fileSize": "28.4 MB",
-    "updateDate": "2024-01-13",
+    "updateDate": "2024-01-22",
     "screenshots": [
     "https://raw.githubusercontent.com/ThePurplePulsars/BinaryBrowser/main/binary_logo.png",
     "https://raw.githubusercontent.com/ThePurplePulsars/BinaryBrowser/main/binary_logo.png"
