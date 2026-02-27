@@ -1,6 +1,6 @@
 {
-  "versionCode": 251,
-  "versionName": "2.5.1-Stable",
+  "versionCode": 1,
+  "versionName": "1.0.0",
   "apkUrl": "https://github.com/ThePurplePulsars/Sirius/releases/download/v2.5.1/telestream-v2.5.1.apk",
   "changelog": "🚀 New Update Available!\n\n- Added Feedback System in Settings\n- Enhanced Cast & Crew search with dedicated crew list\n- Improved Series navigation (fixed season loops)\n- Internal performance optimizations for large libraries\n- Sirius branding integration"
 }
