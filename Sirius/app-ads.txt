@@ -1,9 +1,12 @@
+# Developer Domain Ownership
+OWNERDOMAIN=thepurplepulsars.github.io
+
 # ironSource Mediation app-ads.txt for Sirius
 # Host this at: thepurplepulsars.github.io/app-ads.txt
 # (Note: Most networks expect it at the ROOT of the developer domain)
 
 # ironSource Direct
-ironsource.com, 256427ae5, DIRECT, f69166a014a51e6b
+ironsrc.com, 649975, DIRECT
 
 # Unity Ads (Reseller via ironSource)
 unity3d.com, 6055583, DIRECT, [REPLACE_ID_FROM_UNITY_DASHBOARD]
