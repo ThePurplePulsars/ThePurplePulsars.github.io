@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0.0",
-  "apkUrl": "https://telestreambylehna.vercel.app/Sirius_v1.0.0.apk",
-  "changelog": "🚀 Sirius v2.5.1\n\n- New: Feedback System in Settings\n- New: Enhanced Cast & Crew metadata & search\n- Fix: Series folder navigation loop\n- Fix: Performance improvements for large libraries\n- Theme: Sirius branding integration"
+  "versionCode": 2,
+  "versionName": "2.0.0",
+  "apkUrl": "https://siriusplayer.vercel.app/Sirius_v2.0.0.apk",
+  "changelog": "🚀 Sirius v2.0.0\n\n- New: Ad support\n- New: Enhanced player gesture \n- Fix: Local folder navigation loop\n- Fix: Performance improvements for large libraries"
 }
