@@ -1,0 +1,12 @@
+# ironSource Mediation app-ads.txt
+# Replace [APP_ID] with your ironSource App ID if different
+# The IronSource dashboard provides these exact lines under Setup > App-Ads.txt
+
+# ironSource Direct
+ironsource.com, 256427ae5, DIRECT, f69166a014a51e6b
+
+# Unity Ads (Reseller via ironSource)
+unity3d.com, 6055583, DIRECT, [REPLACE_ID_FROM_UNITY_DASHBOARD]
+
+# Google Ads (Recommended for many mediated networks)
+google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
