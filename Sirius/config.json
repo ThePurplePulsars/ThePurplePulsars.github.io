@@ -1,5 +1,5 @@
 {
-  "adIntervalMinutes": 60,
+  "adIntervalMinutes": 62,
   "adFreeRewardMinutes": 0,    
   "sessionRewardMinutes": 61,  
   "initialAdFreeThresholdMinutes": 2,
