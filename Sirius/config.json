@@ -1,8 +1,8 @@
 {
-  "adIntervalMinutes": 2,
-  "adFreeRewardMinutes": 0,    
-  "sessionRewardMinutes": 1,  
   "initialAdFreeThresholdMinutes": 0,
-  "rewardAdThreshold": 3,
+  "adIntervalMinutes": 1,
+  "adFreeRewardMinutes": 0,    
+  "rewardAdThreshold": 2,
+  "sessionRewardMinutes": 60, 
   "minVersionCode": 1
 }
