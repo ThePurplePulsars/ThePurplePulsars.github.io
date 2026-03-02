@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "2.0.0",
-  "apkUrl": "https://siriusplayer.vercel.app/Sirius_v2.0.0.apk",
-  "changelog": "🚀 Sirius v2.0.0\n\n- New: Ad support\n- New: Enhanced player gesture \n- Fix: Local folder navigation loop\n- Fix: Performance improvements for large libraries"
+  "versionCode": 3,
+  "versionName": "2.1.0",
+  "apkUrl": "https://siriusplayer.vercel.app/Sirius_v2.1.0.apk",
+  "changelog": "🚀 Sirius v2.1.0\n\n- New: Ad Management \n- New: Enhanced player gesture \n- Fix: Bug Fixes & Stability\n- Improvements: UX & Visuals"
 }
