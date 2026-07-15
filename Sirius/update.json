@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "3.1.0",
-  "apkUrl": "https://siriusplayer.vercel.app/Sirius v3.1.0.apk",
-  "changelog": "🚀 Sirius v3.1.0\n\n- New: Local subtitle caching\n- Fix: External subtitle rendering\n- Improvements: Premium subtitle visibility, size, and high-contrast outline styling"
+  "versionCode": 9,
+  "versionName": "4.1.0",
+  "apkUrl": "https://siriusplayer.vercel.app/Sirius v4.1.0.apk",
+  "changelog": "🚀 Sirius v4.1.0\n\n- New: Local caching Mechanism\n- Fix: Updated Banner Section\n- Improvements: Updated sync and file sort logic"
 }
