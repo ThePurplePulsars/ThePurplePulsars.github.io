@@ -1,5 +1,5 @@
 {
-  "initialAdFreeThresholdMinutes": 288000000,
+  "initialAdFreeThresholdMinutes": 2880000000000,
   "adIntervalMinutes": 30,
   "adFreeRewardMinutes": 5,    
   "rewardAdThreshold": 2,
