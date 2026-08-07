@@ -1,9 +1,8 @@
 {
-  "initialAdFreeThresholdMinutes": 2880,
+  "initialAdFreeThresholdMinutes": 288000000,
   "adIntervalMinutes": 30,
   "adFreeRewardMinutes": 5,    
   "rewardAdThreshold": 2,
   "sessionRewardMinutes": 60, 
   "minVersionCode": 1,
-  "legacy_pass_hash": "191503f89fc773efb1315b82a30cd6411e94b3df6dc0dc8be5df16aa9361da91"
 }
